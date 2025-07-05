@@ -1,0 +1,2 @@
+Oscar24|Curacao|Televisor|8000.0|25/09/2025|mensual|Otros|Efectivo|False|03/07/2025 23:13:49
+Oscar2407|Gallo mas gallo|Laptops|100000.0|25/07/2027|mensual|Otros|Bancario|False|03/07/2025 23:23:51
